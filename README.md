@@ -1,5 +1,5 @@
-Software Engineer specializing in full-stack web development with strong experience in JavaScript and Python. Skilled in building scalable RESTful and GraphQL APIs, designing clean architectures, and delivering maintainable, high-quality code.
+一名软件工程师，专长于全栈 Web 开发，精通 JavaScript 和 Python。擅长构建可扩展的 RESTful 和 GraphQL API，设计简洁的架构，并交付可维护的高质量代码。
 
-I have hands-on experience developing backend systems with Node.js, Express, Django, and Flask, working with both relational and non-relational databases. I focus on writing clean, testable code following SOLID principles and best practices in software architecture.
+我拥有丰富的后端系统开发经验，熟练运用 Node.js、Express、Django 和 Flask，并精通关系型和非关系型数据库。我专注于编写简洁、可测试的代码，遵循 SOLID 原则和软件架构最佳实践。
 
-Passionate about solving real-world problems through technology, I enjoy designing efficient systems, optimizing performance, and continuously improving code quality. I am committed to continuous learning, collaboration, and delivering reliable solutions that create measurable impact.
+我热衷于运用技术解决实际问题，乐于设计高效的系统，优化性能，并持续提升代码质量。我致力于持续学习、团队协作，并交付能够产生可衡量影响的可靠解决方案。
